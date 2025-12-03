@@ -92,6 +92,7 @@ D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.GeneratedMSBuil
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.AssemblyInfoInputs.cache
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.AssemblyInfo.cs
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.csproj.CoreCompileInputs.cache
+D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.sourcelink.json
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.csproj.Up2Date
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\VeraCom.dll
 D:\ws_VisualStudio\VeraCOM\obj\x64\Debug\net10.0-windows\refint\VeraCom.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeraCom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e906fec8dd9ad74ce6b6382ed1ed5ef95d3b9633")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21b06de19ce0f2a531c213dbce6b6ea2f18f377e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeraCom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeraCom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
